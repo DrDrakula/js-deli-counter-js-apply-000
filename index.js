@@ -34,3 +34,4 @@ function currentLine(katzDeliLine){
 }
 
 currentLine(katzDeli)
+nowServing(katzDeli)
